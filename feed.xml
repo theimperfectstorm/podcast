@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
 <title>The Imperfect Storm</title>
-<link>http://www.example.com/<link>
+<link>http://www.example.com/</link>
 <language>en-us</language>
 <itunes:subtitle>The existential friendship simulator that's at least honest about it.</itunes:subtitle>
 <itunes:author>Author Name</itunes:author>
