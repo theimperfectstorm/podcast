@@ -1,9 +1,6 @@
-## The existentialist friendship simulator that's at least honest about it.
+## Episodes
 
----
-
-
-## April 5, 2020
+### April 5, 2020
 
 Listen here for now: https://archive.org/details/20200405212913
 
