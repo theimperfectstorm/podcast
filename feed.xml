@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>The Imperfect Storm</title>
+<link>http://www.example.com/<link>
+<language>en-us</language>
+<itunes:subtitle>The existential friendship simulator that's at least honest about it.</itunes:subtitle>
+<itunes:author>Author Name</itunes:author>
+<itunes:summary>Hosted by Crunch Dog, Larry, and Art</itunes:summary>
+<description>
+  Founded during the onset of the 2020 Coronavirus pandemic, these fellas get together every
+  few days just to wrap their heads around what's goin on. Sometimes there are guests.
+</description>
+<itunes:owner>
+    <itunes:name>The Imperfect Storm</itunes:name>
+    <itunes:email>podcast@theimperfectstorm.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://www.example.com/podcast-icon.jpg" />
+<itunes:category text="Philosophy"/></itunes:category>
+
+<item>
+    <title>Queen Corona</title>
+    <itunes:summary>
+      April 5, 2020. Three perspectives on being locked up at
+      home: work-from-home, essential, and retired.
+    </itunes:summary>
+    <description>Description of podcast episode content</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="https://archive.org/download/20200405212913/2020-04-05%2021-29-13.mp3" type="audio/mpeg" length="81028160"></enclosure>
+    <pubDate>Sun, 05 Apr 2020 23:00:00 +0000</pubDate>
+    <itunes:author>The Imperfect Storm</itunes:author>
+    <itunes:duration>01:27:40</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>https://archive.org/download/20200405212913/2020-04-05%2021-29-13.mp3</guid>
+</item> 
+   
+</channel>
+</rss>
