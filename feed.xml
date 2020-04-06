@@ -17,7 +17,7 @@
 </itunes:owner>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="http://www.example.com/podcast-icon.jpg" />
-<itunes:category text="Philosophy"/></itunes:category>
+<itunes:category text="Philosophy"></itunes:category>
 
 <item>
     <title>Queen Corona</title>
