@@ -2,11 +2,11 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
 <title>The Imperfect Storm</title>
-<link>http://www.example.com/</link>
+<link>http://www.theimperfectstorm.com/</link>
 <language>en-us</language>
 <itunes:subtitle>The existential friendship simulator that's at least honest about it.</itunes:subtitle>
-<itunes:author>Author Name</itunes:author>
-<itunes:summary>Hosted by Crunch Dog, Larry, and Art</itunes:summary>
+<itunes:author>The Imperfect Storm</itunes:author>
+<itunes:summary>On March 3rd, 2020, everything changed.</itunes:summary>
 <description>
   Founded during the onset of the 2020 Coronavirus pandemic, these fellas get together every
   few days just to wrap their heads around what's goin on. Sometimes there are guests.
@@ -20,7 +20,7 @@
 <itunes:category text="Philosophy"></itunes:category>
 
 <item>
-    <title>Queen Corona</title>
+    <title>23 days secured in place</title>
     <itunes:summary>
       April 5, 2020. Three perspectives on being locked up at
       home: work-from-home, essential, and retired.
