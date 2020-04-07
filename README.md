@@ -1,9 +1,9 @@
-## On March 3rd, 2020, everything changed.
+## On March 13th, 2020, everything changed.
 
 Founded during the onset of the 2020 Coronavirus pandemic, these fellas get together every
 few days just to wrap their heads around what's goin on. Sometimes there are guests.
 
-### 22 days secured-in-place
+### 24 days secured-in-place
 
 <audio
         controls
