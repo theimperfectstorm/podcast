@@ -14,6 +14,16 @@ few days just to wrap their heads around what's goin on. Sometimes there are gue
     
 ---
 
+### 31 days secured-in-place
+
+<audio
+        controls
+        src="https://archive.org/download/20200414220357/2020-04-14%2022-03-57.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+    
+---
 ### Contact
 
 podcast@theimperfectstorm.com
