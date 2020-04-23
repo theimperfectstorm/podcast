@@ -74,5 +74,23 @@
     <itunes:explicit>yes</itunes:explicit>
     <guid>https://archive.org/download/2020-04-13/2020-04-13.mp3</guid>
 </item>
+  
+  <item>
+    <title>39 days secured in place</title>
+    <itunes:summary>
+      April 22, 2020
+    </itunes:summary>
+    <description>
+      April 22, 2020
+    </description>
+    <link>http://theimperfectstorm.com</link>
+    <enclosure url="https://archive.org/download/2020-04-22-21-40-12/2020-04-22%2021-40-12.mp3" type="audio/mpeg" length="73160246"></enclosure>
+    <pubDate>Wed, 22 Apr 2020 23:00:00 +0000</pubDate>
+    <itunes:author>The Imperfect Storm</itunes:author>
+    <itunes:duration>01:16:12</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>https://archive.org/download/2020-04-22-21-40-12/2020-04-22%2021-40-12.mp3</guid>
+</item>
+  
 </channel>
 </rss>
