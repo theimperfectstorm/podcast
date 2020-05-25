@@ -162,5 +162,22 @@
     <guid>https://archive.org/download/2020.05.16/2020.05.16.mp3</guid>
 </item>
   
+  <item>
+    <title>71 days secured in place</title>
+    <itunes:summary>
+      May 24, 2020
+    </itunes:summary>
+    <description>
+      May 24, 2020
+    </description>
+    <link>http://theimperfectstorm.com</link>
+    <enclosure url="https://ia601403.us.archive.org/4/items/2020-05-24_202005/2020-05-24.mp3" type="audio/mpeg" length="105074773"></enclosure>
+    <pubDate>Sat, 24 May 2020 23:00:00 +0000</pubDate>
+    <itunes:author>The Imperfect Storm</itunes:author>
+    <itunes:duration>01:49:27</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>https://ia601403.us.archive.org/4/items/2020-05-24_202005/2020-05-24.mp3</guid>
+</item>
+  
 </channel>
 </rss>
