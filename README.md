@@ -86,7 +86,16 @@ few days just to wrap their heads around what's goin on. Sometimes there are gue
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-    
+   
+### REPOST: The Defendant Stand is an Auction Block
+
+   <audio
+        controls
+        src="https://feeds.soundcloud.com/stream/491155479-wikileaksonweed-the-defendant-stand-is-an.mp3>
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+   
 ---
 
 ### Contact
