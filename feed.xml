@@ -179,5 +179,23 @@
     <guid>https://ia601403.us.archive.org/4/items/2020-05-24_202005/2020-05-24.mp3</guid>
 </item>
   
+    <item>
+    <title>REPOST: The Defendent Stand is an Auction Block</title>
+    <itunes:summary>
+      Mon, 27 Aug 2018 04:14:22 +0000
+    </itunes:summary>
+    <description>
+      Mon, 27 Aug 2018 04:14:22 +0000
+    </description>
+    <link>http://theimperfectstorm.com</link>
+    <enclosure url="https://feeds.soundcloud.com/stream/491155479-wikileaksonweed-the-defendant-stand-is-an.mp3" type="audio/mpeg" length="112875728"></enclosure>
+    <pubDate>Mon, 27 Aug 2018 04:14:22 +0000</pubDate>
+    <itunes:author>The Imperfect Storm</itunes:author>
+    <itunes:duration>01:57:35</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>https://feeds.soundcloud.com/stream/491155479-wikileaksonweed-the-defendant-stand-is-an.mp3</guid>
+</item>
+  
+  
 </channel>
 </rss>
