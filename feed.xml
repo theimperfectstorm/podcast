@@ -178,6 +178,23 @@
     <itunes:explicit>yes</itunes:explicit>
     <guid>https://ia601403.us.archive.org/4/items/2020-05-24_202005/2020-05-24.mp3</guid>
 </item>
+
+<item>
+  <title>74 days secured in place</title>
+  <itunes:summary>
+    Tue, 27 May 2020 04:14:22 +0000
+  </itunes:summary>
+  <description>
+    Tue, 27 May 2020 04:14:22 +0000
+  </description>
+  <link>http://theimperfectstorm.com</link>
+  <enclosure url="https://ia601407.us.archive.org/21/items/2020-05-27/2020-05-27.mp3" type="audio/mpeg" length="42658839"></enclosure>
+  <pubDate>Tue, 27 May 2020 04:14:22 +0000</pubDate>
+  <itunes:author>The Imperfect Storm</itunes:author>
+  <itunes:duration>00:44:26</itunes:duration>
+  <itunes:explicit>yes</itunes:explicit>
+  <guid>https://ia601407.us.archive.org/21/items/2020-05-27/2020-05-27.mp3</guid>
+</item>
   
 <item>
   <title>REPOST: The Defendent Stand is an Auction Block (feat Joe and Ghost)</title>
@@ -189,20 +206,20 @@
   </description>
   <link>http://theimperfectstorm.com</link>
   <enclosure url="https://feeds.soundcloud.com/stream/491155479-wikileaksonweed-the-defendant-stand-is-an.mp3" type="audio/mpeg" length="112875728"></enclosure>
-  <pubDate>Sun, 31 May 2020 23:00:00 +0000</pubDate>
+  <pubDate>Sun, 27 May 2018 04:14:22 +0000</pubDate>
   <itunes:author>The Imperfect Storm</itunes:author>
   <itunes:duration>01:57:35</itunes:duration>
   <itunes:explicit>yes</itunes:explicit>
   <guid>https://feeds.soundcloud.com/stream/491155479-wikileaksonweed-the-defendant-stand-is-an.mp3</guid>
 </item>
   
-  <item>
+<item>
   <title>87 days secured in place</title>
   <itunes:summary>
-    Tue, 9 Jun 2018 04:14:22 +0000
+    Tue, 9 Jun 2020 04:14:22 +0000
   </itunes:summary>
   <description>
-    Tue, 9 Jun 2018 04:14:22 +0000
+    Tue, 9 Jun 2020 04:14:22 +0000
   </description>
   <link>http://theimperfectstorm.com</link>
   <enclosure url="https://ia601501.us.archive.org/10/items/2020-06-09/2020-06-09.mp3" type="audio/mpeg" length="75462365"></enclosure>
@@ -212,7 +229,7 @@
   <itunes:explicit>yes</itunes:explicit>
   <guid>https://ia601501.us.archive.org/10/items/2020-06-09/2020-06-09.mp3</guid>
 </item>
-  
+
   
 </channel>
 </rss>
