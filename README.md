@@ -86,7 +86,17 @@ few days just to wrap their heads around what's goin on. Sometimes there are gue
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-   
+    
+### 74 days secured-in-place
+
+   <audio
+        controls
+        src="https://ia601407.us.archive.org/21/items/2020-05-27/2020-05-27.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+    
+
 ### REPOST: The Defendant Stand is an Auction Block
 
    <audio
@@ -96,7 +106,7 @@ few days just to wrap their heads around what's goin on. Sometimes there are gue
             <code>audio</code> element.
     </audio>
    
-### 87 days secured in place
+### 87 days secured-in-place
 
    <audio
         controls
