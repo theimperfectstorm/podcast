@@ -212,23 +212,6 @@
   <itunes:explicit>yes</itunes:explicit>
   <guid>https://feeds.soundcloud.com/stream/491155479-wikileaksonweed-the-defendant-stand-is-an.mp3</guid>
 </item>
-  
-<item>
-  <title>87 days secured in place</title>
-  <itunes:summary>
-    Tue, 9 Jun 2020 04:14:22 +0000
-  </itunes:summary>
-  <description>
-    Tue, 9 Jun 2020 04:14:22 +0000
-  </description>
-  <link>http://theimperfectstorm.com</link>
-  <enclosure url="https://ia601501.us.archive.org/10/items/2020-06-09/2020-06-09.mp3" type="audio/mpeg" length="75462365"></enclosure>
-  <pubDate>Tue, 9 Jun 2020 23:00:00 +0000</pubDate>
-  <itunes:author>The Imperfect Storm</itunes:author>
-  <itunes:duration>01:18:36</itunes:duration>
-  <itunes:explicit>yes</itunes:explicit>
-  <guid>https://ia601501.us.archive.org/10/items/2020-06-09/2020-06-09.mp3</guid>
-</item>
 
   
 </channel>
