@@ -3,6 +3,18 @@
 Founded during the onset of the 2020 Coronavirus pandemic, these fellas get together every
 few days just to wrap their heads around what's goin on. Sometimes there are guests.
 
+### Beer Milkshake
+
+we here at the imperfect storm are no different than you in that we're all - ALL OF US - looking for our metaphorical lost shaker of salt.
+
+jimmy buffet is not one of my favorites, but the song impresses me, especially when he says, "some people claim that there's a woman to blame, but i know it's my own damned fault." rap on, jimmy. take personal responsibility for your karma.
+
+i think we should excuse mr. buffet for writing such lyrics as "i stepped on a pop top; i blew out my flip flop." and who amongst us is not an inner parrot-head, overdosing on tequila and having bad-crazy thoughts, like what a beer milkshake would taste like.
+
+mr. buffet has been to the mountain top, but i'm not sure what mountain he climbed.
+
+\- Art
+
 ### 24 days secured-in-place
 
 <audio
@@ -105,7 +117,6 @@ few days just to wrap their heads around what's goin on. Sometimes there are gue
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-
 
 ---
 
